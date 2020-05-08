@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499304504666",
+    "firebase_url": "https://chat-quickr.firebaseio.com",
+    "project_id": "chat-quickr",
+    "storage_bucket": "chat-quickr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499304504666:android:9fe8c4109fc840450e2763",
+        "android_client_info": {
+          "package_name": "com.example.chat_quicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499304504666-99cgbsqbdu8617dhd326p10mms9i2v6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSBMZtyYtRtwEZ3kQa4de99K8pOGoQmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499304504666-99cgbsqbdu8617dhd326p10mms9i2v6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
