@@ -1,4 +1,4 @@
-# chat_quicker
+# chat_quickr
 
 A new Flutter project.
 
